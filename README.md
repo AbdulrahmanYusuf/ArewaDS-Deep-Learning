@@ -81,13 +81,17 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
 
 | Date | Lesson | Exercise | Recordings |
 |------|--------|----------|------------|
-| Week 0 |  Introduction  | | [Recording 1: Introductory Video](https://www.youtube.com/watch?v=yjXAuYE7kKc&t=621s) |
-| Week 1 | Pytorch Fundamentals  |  [Exercise 1](https://github.com/arewadataScience/ArewaDS-Deep-Learning/blob/main/Part_1_Deep_Learning_with_Pytorch/week1/week_1_exercises.ipynb) | [Recording 2:Pytorch Fundamentals](https://www.youtube.com/watch?v=rq7smEf9Sh4&t=1159s) |
-| Week 2 | Pytorch Workflow| [Exercise 2](https://github.com/arewadataScience/ArewaDS-Deep-Learning/blob/main/Part_1_Deep_Learning_with_Pytorch/week2/week_2_exercises.ipynb) | [Recording 1](https://youtu.be/vH3err_yIYE),   [Recording 2](https://youtu.be/3bIlcn5pw3c) |
-| Week 3|  |  |  |
-| Week 4|  |  |  |
-| Week 5|  |  |  |
-
+| Week 0 |  Introduction  | | [Introductory Video](https://www.youtube.com/watch?v=yjXAuYE7kKc&t=621s) |
+| Week 1 | PyTorch Fundamentals  |  [Exercise 1](Part_1_Deep_Learning_with_Pytorch/week1/week_1_exercises.ipynb) | [Pytorch Fundamentals](https://www.youtube.com/watch?v=rq7smEf9Sh4&t=1159s) |
+| Week 2 | PyTorch Workflow| [Exercise 2](Part_1_Deep_Learning_with_Pytorch/week2/week_2_exercises.ipynb) | [PyTorch Workflow](https://youtu.be/vH3err_yIYE)<br>   [PyTorch Workflow - Q&A](https://youtu.be/3bIlcn5pw3c) |
+| Week 3| PyTorch Neural Network Classification |  [Exercise 3](Part_1_Deep_Learning_with_Pytorch/week3/week_3_exercises.ipynb)| [PyTorch Neural Network Classification](https://www.youtube.com/watch?v=s4qX_QJDUZA) <br> [PyTorch Neural Network Classification - Q&A](https://www.youtube.com/watch?v=s4qX_QJDUZA) |
+| Week 4| PyTorch Computer Vision | [Exercise 4](Part_1_Deep_Learning_with_Pytorch/week4/week_4_exercises.ipynb) | [PyTorch Computer Vision](https://www.youtube.com/watch?v=emNtz9gJZbE) |
+| Week 5|  PyTorch Custom Datasets<br>PyTorch Going Modular| [Exercise 5](Part_1_Deep_Learning_with_Pytorch/week5/week_5_exercises.ipynb) | [PyTorch Custom Datasets<br>PyTorch Going Modular](https://www.youtube.com/watch?v=ZTIi_bBRLtc) |
+| Week 6  | PyTorch Transfer Learning|  |  [PyTorch Transfer Learning](https://www.youtube.com/watch?v=XMr6F9ukt9Q) |
+| Week 7  | PyTorch  Experiment Tracking <br> Capstone Project Introduction  |  [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) | [PyTorch Experiment Tracking and Capstone Project ](https://www.youtube.com/watch?v=79aYWyecM-U)  |
+| Week 8  | PyTorch Paper Replicating  | [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) |   |
+| Week 9  | PyTorch Model Deployment  | [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) |   |
+|   |   |   |   |
 
 
 ### Part 2: Natural Language Processing with PyTorch
@@ -107,3 +111,4 @@ Delve into NLP using PyTorch, guided by the Stanford course, CS224N.
 
 ### References
 - [Deep Learning with PyTorch](https://github.com/mrdbourke/pytorch-deep-learning)
+- [Understanding Deep Learning by Simon Prince](https://www.youtube.com/watch?v=ZTIi_bBRLtc)
